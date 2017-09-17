@@ -25,9 +25,11 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 #### Generated images
 
-<img src="test_images_output/solidWhiteRight.jpg" width="405" alt="Combined Image" />
+<img src="test_images_edge/solidWhiteRight.jpg" width="405" alt="" />
+<img src="test_images_output/solidWhiteRight.jpg" width="405" alt="" />
 
-<img src="test_images_output/solidYellowLeft.jpg" width="405" alt="Combined Image" />
+<img src="test_images_edge/solidYellowLeft.jpg" width="405" alt="" />
+<img src="test_images_output/solidYellowLeft.jpg" width="405" alt="" />
 
 #### Drawing lane lines on videos
 
@@ -38,8 +40,10 @@ You can view the video version.
 
 ### Shortcomings
 
-I tried my lane finding pipeline on the video `test_videos_output/challenge.mp4`. But the lane line is not drawn 
+I tried my lane finding pipeline on the video `test_videos/challenge.mp4`. But the lane line is not drawn 
 as intended. The top position of the left line and right line is not successfully deteced. 
+
+* <a href="test_videos_output/challenge.mp4">test_videos_output/challenge.mp4</a>
 
 ### Possible improvements
 
