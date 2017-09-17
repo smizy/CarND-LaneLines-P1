@@ -25,11 +25,9 @@ In order to draw a single line on the left and right lanes, I modified the draw_
 
 #### Generated images
 
-<img src="test_images_edge/solidWhiteRight.jpg" width="405" alt="" />
-<img src="test_images_output/solidWhiteRight.jpg" width="405" alt="" />
+<img src="test_images_edge/solidWhiteRight.jpg" width="405" alt="" /> <img src="test_images_output/solidWhiteRight.jpg" width="405" alt="" />
 
-<img src="test_images_edge/solidYellowLeft.jpg" width="405" alt="" />
-<img src="test_images_output/solidYellowLeft.jpg" width="405" alt="" />
+<img src="test_images_edge/solidYellowLeft.jpg" width="405" alt="" /> <img src="test_images_output/solidYellowLeft.jpg" width="405" alt="" />
 
 #### Drawing lane lines on videos
 
